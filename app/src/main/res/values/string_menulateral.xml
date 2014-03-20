@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menuLateral_miCuenta">Mi Cuenta </string>
+    <string name="menuLateral_misDatos">Mis Datos</string>
+    <string name="menuLateral_Settings">Settings</string>
+    <string name="menuLateral_Tickets">Tickets</string>
+    <string name="menuLateral_misTickets">Mis Tickets</string>
+    <string name="menuLaterlal_Comprar">comprar Tickets</string>
+    <string name="menuLaterlal_Sala">La Sala</string>
+    <string name="menuLaterlal_Contactanos">Contactanos</string>
+    <string name="navdrawer_ComoLlegar">Como llegar</string>
+
+
+</resources>
