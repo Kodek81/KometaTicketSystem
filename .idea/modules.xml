@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
       <module fileurl="file://$PROJECT_DIR$/KometaTicketSystem.iml" filepath="$PROJECT_DIR$/KometaTicketSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lib/Lib.iml" filepath="$PROJECT_DIR$/Lib/Lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/NavDrawer.iml" filepath="$PROJECT_DIR$/NavDrawer.iml" />
     </modules>
   </component>
 </project>
